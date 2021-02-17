@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830740987235",
+    "project_id": "ticchat-e91d6",
+    "storage_bucket": "ticchat-e91d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830740987235:android:f45b6da626f9c694972756",
+        "android_client_info": {
+          "package_name": "com.example.loginactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830740987235-tluhurmoaq1u4ba8hs368dd0hn5rrvpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOBPi5tiWrIzXuRomSltjhXef3ckjee-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830740987235-tluhurmoaq1u4ba8hs368dd0hn5rrvpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
